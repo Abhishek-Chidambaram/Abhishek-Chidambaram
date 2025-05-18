@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on Intrusion Detection System <br>🌱 I’m currently learning Ethical Hacking , Penetration Testing , React , Node , MongoDB<br>💬 Ask me about Python , Linux , Networking and MySQL<br>
+🔭 I’m currently working on Container Vulnerability Scanning <br>🌱 I’m currently learning Penetration Testing <br>💬 Ask me about Python , Linux , Networking and MySQL<br>
 
 
 # 💻 Tech Stack:
