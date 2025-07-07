@@ -81,6 +81,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=F7FF00&center=true&vCenter=true&width=600&lines=Zero-day+mind.+Full-stack+grind.;Built+in+the+terminal.+Deployed+with+precision.;AI+guards+my+pipeline%2C+CLI+runs+my+code.;Logs+don’t+lie.+I+read+them+in+real-time.;If+it’s+not+secure%2C+it+doesn’t+ship." alt="Dope rotating taglines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Zero-day+mind.+Full-stack+grind.;Built+in+the+terminal.+Deployed+with+precision.;AI+guards+my+pipeline%2C+CLI+runs+my+code.;Logs+don’t+lie.+I+read+them+in+real-time.;If+it’s+not+secure%2C+it+doesn’t+ship." alt="Hacker Outro SVG" />
 </p>
+
 
