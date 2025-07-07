@@ -1,16 +1,84 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on Container Vulnerability Scanning <br>🌱 I’m currently learning Penetration Testing <br>💬 Ask me about Python , Linux , Networking and MySQL<br>
+<h1 align="center">👋 Hi, I'm Abhishek Chidambaram</h1>
 
+<p align="center">
+  <i>Cybersecurity Enthusiast | M.Tech in Cybersecurity | DevSecOps & AI Tools Developer</i>
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhishek-Chidambaram&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Chidambaram&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Chidambaram&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+Secure+AI+DevOps+Pipelines;Open-Source+Contributor;Always+learning+%F0%9F%93%9A;FastAPI+%7C+LangChain+%7C+Docker+%7C+K8s" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:abhishekchidambaram30@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhishekchidambaram30-red?logo=gmail" /></a>
+  <a href="https://linkedin.com/in/abhishek-c-225a77128"><img src="https://img.shields.io/badge/LinkedIn-abhishek-blue?logo=linkedin" /></a>
+  <a href="https://github.com/Abhishek-Chidambaram"><img src="https://img.shields.io/badge/GitHub-Abhishek--Chidambaram-black?logo=github" /></a>
+  <a href="https://hub.docker.com/r/abhishek56/cyphertrace"><img src="https://img.shields.io/badge/DockerHub-CypherTrace-blue?logo=docker" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhishek-Chidambaram&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+🎓 M.Tech Cybersecurity student at **PES University**  
+💡 Passionate about DevSecOps, AI tooling, threat detection, and cloud-native security solutions.  
+🛠️ I build tools with **FastAPI**, **LangChain**, **Docker**, **Redis**, and **Kubernetes**.
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,redis,grafana,prometheus,git,linux,sqlite,mongodb,html,css,bash" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 [CypherTrace](https://hub.docker.com/r/abhishek56/cyphertrace) – CLI Vulnerability Scanner
+- Scan Python/NPM packages & container images using OSV/NVD feeds  
+- Supports CVE tracking, multi-format export, and containerized DevSecOps use
+
+### 🧠 Code-Context Agent – AI Code Assistant
+- Chat with your codebase using FastAPI + LangChain + Ollama
+- Git-aware context, RAG pipelines, CI/CD integration
+
+### 🌱 [Smart Hydro](https://smarthydroponics.vercel.app/) – IoT Hydroponics System
+- ML + Raspberry Pi + MongoDB for real-time farming automation
+- Monitors EC, temperature, pests — awarded by VGST
+
+### 🌐 InsightSift – Threat Intelligence Platform
+- Enrich, score, and visualize IP-based threat indicators
+- Redis, Elasticsearch, Grafana, Kibana, Prometheus
+
+---
+
+## 📜 Certifications
+
+- 🛡️ **eJPT Certified (eLearnSecurity)** – Credential ID: 152447399  
+- 🧠 **Top 5% Global** – TryHackMe (June 2025)  
+- ☁️ **DevOps Engineer** – AWS Skill Builder  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-Chidambaram&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhishek-Chidambaram&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Chidambaram&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📬 Connect With Me
+
+- 📧 **Email**: abhishekchidambaram30@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/abhishek-c-225a77128](https://linkedin.com/in/abhishek-c-225a77128)  
+- 🧑‍💻 **GitHub**: [Abhishek-Chidambaram](https://github.com/Abhishek-Chidambaram)
+
+---
+
+<p align="center"><i>“Hacking the future, one CLI at a time.”</i></p>
