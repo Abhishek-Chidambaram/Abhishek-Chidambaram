@@ -40,8 +40,9 @@
 - Supports CVE tracking, multi-format export, and containerized DevSecOps use
 
 ### 🧠 Code-Context Agent – AI Code Assistant
-- Chat with your codebase using FastAPI + LangChain + Ollama
-- Git-aware context, RAG pipelines, CI/CD integration
+- Built a Retrieval-Augmented Generation (RAG) agent using Python and LangChain for natural language Q&A over codebases.
+- Automated dev tasks like code refactoring, pytest generation, and docstring creation using agentic tools.
+- Designed a multi-agent pipeline where one AI writes code and another generates corresponding tests — simulating a real-world Dev ↔ QA cycle.
 
 ### 🌱 [Smart Hydro](https://smarthydroponics.vercel.app/) – IoT Hydroponics System
 - ML + Raspberry Pi + MongoDB for real-time farming automation
