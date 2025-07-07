@@ -80,5 +80,6 @@
 - 🧑‍💻 **GitHub**: [Abhishek-Chidambaram](https://github.com/Abhishek-Chidambaram)
 
 ---
-
-<p align="center"><i>“Hacking the future, one CLI at a time.”</i></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Zero-day+mind.+Full-stack+grind.;Born+in+bash.+Raised+in+containers.;AI+guards+my+pipeline%2C+CLI+runs+my+code.;Logs+don’t+lie.+I+read+them+in+real-time.;If+it’s+not+secure%2C+it+doesn’t+ship." alt="Abhishek's Typing Animation">
+</p>
