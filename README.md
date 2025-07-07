@@ -81,7 +81,8 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Zero-day+mind.+Full-stack+grind.;AI+guards+my+pipeline%2C+CLI+runs+my+code.;If+it’s+not+secure%2C+it+doesn’t+ship." alt="Outro Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Zero-day+mind.+Full-stack+grind.;Built+in+the+terminal.+Deployed+with+precision.;If+it’s+not+secure,+it+doesn’t+ship." alt="Typing SVG" />
 </p>
+
 
 
